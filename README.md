@@ -18,7 +18,7 @@ Hey there! I'm Divyam Goyal, a passionate Full Stack MERN Developer with a keen 
 I'm always open to collaboration and new opportunities. Feel free to reach out to me via [LinkedIn](linkedin_profile) or [Email](email_address) if you'd like to discuss potential projects or just geek out over tech!
 
 ## Let's Connect
-- [LinkedIn]([linkedin_profile](https://www.linkedin.com/in/divyam-goyal-792410175/))
+- [LinkedIn](https://www.linkedin.com/in/divyam-goyal-792410175/)
 - [Twitter](twitter_profile)
 - [Portfolio Website](portfolio_website)
 
