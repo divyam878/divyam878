@@ -15,11 +15,11 @@ Hey there! I'm Divyam Goyal, a passionate Full Stack MERN Developer with a keen 
 - **Project Name 3**: Brief description of the project and your role.
 
 ## Get in Touch
-I'm always open to collaboration and new opportunities. Feel free to reach out to me via [LinkedIn](linkedin_profile) or [Email](email_address) if you'd like to discuss potential projects or just geek out over tech!
+I'm always open to collaboration and new opportunities. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/divyam-goyal-792410175/) or [Email](divyamgoyal878@gmail.com) if you'd like to discuss potential projects or just geek out over tech!
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/divyam-goyal-792410175/)
-- [Twitter](twitter_profile)
-- [Portfolio Website](portfolio_website)
+- [Twitter](https://twitter.com/Divyamgoyal878)
+- [Portfolio Website](https://divyam-goyal-resume.netlify.app/)
 
 Thanks for stopping by! Happy coding! 🚀
