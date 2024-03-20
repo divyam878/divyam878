@@ -1,7 +1,7 @@
 # Welcome to Divyam Goyal's GitHub Profile!
 
 ## About Me
-Hey there! I'm Divyam Goyal, a passionate Full Stack MERN Developer with a keen interest in Google Apps Script. I thrive on building robust web applications that not only meet but exceed expectations. With a knack for leadership, I've successfully led teams through various projects, ensuring smooth collaboration and delivery of high-quality solutions.
+Hey there! I'm **Divyam Goyal**, a passionate **Full Stack MERN Developer** with a keen interest in **Google Apps Script** and **Google Sheets**. I thrive on building robust web applications that not only meet but exceed expectations. With a knack for leadership, I've successfully **led teams** through various projects, ensuring smooth collaboration and delivery of high-quality solutions.
 
 ## What I Do
 - **Full Stack Development**: Proficient in MERN (MongoDB, Express.js, React.js, Node.js) stack, I love crafting both frontend and backend components to create seamless user experiences.
